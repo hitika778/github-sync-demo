@@ -1,1 +1,1 @@
-console.log('sync complete');
+console.log('Sync complete');
